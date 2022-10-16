@@ -4,4 +4,4 @@ Template em HTML e CSS para um breve hands on durante a Master Class "Criando um
 
 --- 
 ## Fork 
-Fork do perfil de @falvojr istrutor da [DIO] <https://dio.me> no curso de Git & Github.
+Fork do perfil de @falvojr instrutor da [DIO] <https://dio.me> no curso de Git & Github.
